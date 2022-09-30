@@ -1,6 +1,5 @@
 # Sistemas Operacionais - TSI - Diurno (30/09/2022)
 
-
 ### Resumo da aula de hoje:
 - Comandos sobre Serialização e Compactação.
 
@@ -8,13 +7,12 @@
 - Para essa aula, poderão ser utilizados o ambiente na web ou a máquina virtual construída.
 - Endereço do ambiente na Web:  https://testes.jlzem.repl.run/ ou https://repl.it/@jlzem/testes
 
-
 #### Comandos sobre Serialização e compactação
 
 ```sh
 # ls -lh
 ```
-#
+
 ![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo03.png "image Title")
 
 ```sh
