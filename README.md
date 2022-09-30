@@ -1,5 +1,5 @@
 # Sistemas Operacionais - TSI - Diurno (30/09/2022) 
-\
+
 ### Resumo da aula de hoje:
 - Comandos sobre Serialização e Compactação.
 
@@ -13,7 +13,7 @@
 # ls -lh
 ```
 
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo03.png "image Title")
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo04.png "image Title")
 
 ```sh
 # cat > arq1.txt
