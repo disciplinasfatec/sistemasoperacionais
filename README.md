@@ -1,5 +1,7 @@
 # Sistemas Operacionais - TSI - Diurno (30/09/2022) 
+
 \
+
 ### Resumo da aula de hoje:
 - Comandos sobre Serialização e Compactação.
 
