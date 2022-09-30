@@ -1,16 +1,16 @@
 # Serialização e Desserialização
 
-## Inicializar a Máquina Virtual\
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo01.png "image Title")
+## Inicializar a Máquina Virtual
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo01.png "image Passo01")
 
-## Realizar o login (root/toor)\
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo02.png "image Title")
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo03.png "image Title")
+## Realizar o login (root/toor)
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo02.png "image Passo02")
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo03.png "image Passo03")
 
 ```sh
 # ls -lh
 ```
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo04.png "image Title")
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo04.png "image Passo04")
 
 ```sh
 # cat > arq1.txt
@@ -18,7 +18,7 @@ Este é o conteúdo do arquivo arq1.txt
 <ctrl D>
 # ls -lh
 ```
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo05.png "image Title")
+![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo05.png "image Passo05")
 
 ```sh
 # cat > arq2.txt
