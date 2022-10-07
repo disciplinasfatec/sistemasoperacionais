@@ -1,8 +1,9 @@
 # Serialização e Desserialização
 
-``
+```sh
 # ls -lh
-``
+```
+
 ![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo04.png "image Passo04")
 
 ```sh
