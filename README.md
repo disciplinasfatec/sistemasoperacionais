@@ -7,7 +7,7 @@
 
 ```sh
 # cat > arq1.txt
-Este é o conteúdo do arquivo arq1.txt
+*Este é o conteúdo do arquivo arq1.txt*
 <ctrl D>
 # ls -lh
 ```
