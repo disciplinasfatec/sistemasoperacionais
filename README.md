@@ -5,12 +5,12 @@
 ```
 ![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo04.png "image Passo04")
 
-```sh
-# cat > arq1.txt
+
+> # cat > arq1.txt
 Este é o conteúdo do arquivo arq1.txt
 <ctrl D>
 # ls -lh
-```
+
 ![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo05.png "image Passo05")
 
 ```sh
