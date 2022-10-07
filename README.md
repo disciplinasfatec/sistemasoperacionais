@@ -1,12 +1,5 @@
 # Serialização e Desserialização
 
-## Inicializar a Máquina Virtual
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo01.png "image Passo01")
-
-## Realizar o login (root/toor)
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo02.png "image Passo02")
-![alt text](https://github.com/disciplinasfatec/sistemasoperacionais/blob/main/Passo03.png "image Passo03")
-
 ```sh
 # ls -lh
 ```
